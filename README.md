@@ -6,5 +6,5 @@
 
 
 <td style="border: none;">
-        <a href="https://www.hackerrank.com/imenekolli"><img src="https://github.com/imene-swaan/HackerRank/blob/main/HackerRank-Dashboard.png" alt="ocjp badge" width="2532" height="1326"/></a>
+        <a href="https://www.hackerrank.com/imenekolli"><img src="https://github.com/imene-swaan/HackerRank/blob/main/HackerRank-Dashboard.png" alt="ocjp badge" width="750" height="600"/></a>
  </td>
